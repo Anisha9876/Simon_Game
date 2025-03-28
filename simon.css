@@ -1,0 +1,51 @@
+body{
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+  /* background-color: rgb(159, 132, 181); */
+
+}
+.main{
+  height:19rem;
+  width:23rem;
+  /* background-color: rgb(96, 235, 21); */
+  display: flex;
+  flex-wrap: wrap;
+  margin-left:auto;
+  margin-right: auto;
+  /* border: 2px black solid; */
+  border-radius: 3px;
+  margin-top: 6rem;
+}
+.div{
+  height:7rem;
+  width:9rem;
+  
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 2rem;
+  margin-bottom: 1rem;
+  border:7px black solid;
+  border-radius: 30px;
+  
+}
+
+.green{
+  background-color:green;
+
+}
+.red{
+  background-color:red;
+}
+.blue{
+  background-color:blue;
+}
+.purple{
+  background-color:purple;
+}
+.newFlash{
+  background-color: white;
+}
+.flash1{
+  background-color: rgb(65, 231, 231);
+}
